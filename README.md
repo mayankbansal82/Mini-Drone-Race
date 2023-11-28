@@ -32,6 +32,7 @@ This project involves developing an  autonomous flight perception and controls s
 
 ## Results
 
-The video for drone passing through the gates can be found ![here](https://youtu.be/8t1Wc6d-NgQ)
+The video for the drone passing through the gates can be found [here](https://youtu.be/8t1Wc6d-NgQ).
+
 
 
